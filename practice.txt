@@ -1,0 +1,3 @@
+some i got the solution are found in read
+trying to figure out 
+what problem is occurring in this file after using using read and replace
